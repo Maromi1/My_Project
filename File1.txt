@@ -2,5 +2,9 @@
 You think I'd leave your side, baby
 You know me better than that
 You think I'd leave you down
+<<<<<<< HEAD
 When you are down on your knees
 I wouldn't do that
+=======
+When you're not down on your knees
+>>>>>>> bd638303f3702e8dd5d8179478d46feca17bed5e
